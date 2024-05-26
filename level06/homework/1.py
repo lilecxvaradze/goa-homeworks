@@ -1,0 +1,17 @@
+print(str(5))
+print(str(6))
+print(str(7))
+print(str(8))
+print(str(9))
+
+print(int("5"))
+print(int("6"))
+print(int("7"))
+print(int("8"))
+print(int("9"))
+
+print(float(5))
+print(float(6))
+print(float(7))
+print(float(8))
+print(float(9))

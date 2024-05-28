@@ -1,0 +1,8 @@
+print(7 < 8)
+print(9 > 8)
+print(10 >= 5)
+print(10 <= 20)
+print(25 == 25)
+print(30 == 30)
+print("goA" == "goa")
+print("goa" == "goa")

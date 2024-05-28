@@ -1,0 +1,21 @@
+print(True and False)   # logical operation "and"
+print(False and True)
+print(False and False)
+print(True and True)
+print(9 >= 8 and False)
+print(2 < 3 and 4 > 8)
+print(2 > 3 and True)
+print(3 > 2 and False)
+print(3 > 8 and 3 > 3)
+print(3 > 2 and 3 > 1)
+
+print(True or False)    # logical operation "or"
+print(False or True)
+print(True or True)
+print(False or False)
+print(2 > 1 or 2 < 1)
+print(7 < 8 or 7 > 8)
+print(9 > 9 or 9 == 9)
+print(10 > 11 or True)
+print(3 >= 3 or False)
+print(23 <= 24 or True)

@@ -1,0 +1,19 @@
+h1 {
+    color: darkslategray;
+}
+
+p {
+    color: chartreuse;
+}
+
+.first {
+    color: blue;
+}
+
+.second {
+    color: rgb(94, 28, 28);
+}
+
+#third {
+    color: rgb(255, 0, 0);
+}

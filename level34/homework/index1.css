@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+
+h3 {
+    color: rgb(98, 97, 97);
+
+}
+
+button {
+    width: 10%;
+    padding: 3px;
+    background-color: rgb(73, 73, 253);
+    color: aliceblue;
+}

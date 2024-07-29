@@ -1,0 +1,16 @@
+section {
+    text-align: center;
+}
+
+
+h1 {
+    background-color: lightslategray;
+}
+
+h3 {
+    background-color: lightslategrey;
+}
+
+p {
+    -ms-text-size-adjust: 10px;
+}

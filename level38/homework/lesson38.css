@@ -1,0 +1,26 @@
+.idk{
+   border: 2px solid;
+   padding: 25px;
+   height: auto;
+   width: 50%;
+   text-align: right;
+   color:red;
+}
+
+.idk1{
+    border: 2px solid;
+    padding: 25px;
+    height: auto;
+    width: 70%;
+    text-align: left;
+    color: green;
+}
+
+.idk2{
+    border: 2px solid;
+    padding: 25px;
+    height: auto;
+    width: 90%;
+    text-align: center;
+    color: blue;
+}

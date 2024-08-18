@@ -1,0 +1,23 @@
+body {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #ffffff;
+    width: 520px;
+    height: 130px;
+
+}
+
+td {
+    color: black;
+}
+
+th {
+    background-color: #ff0000;
+    color: #ffffff;
+}
+

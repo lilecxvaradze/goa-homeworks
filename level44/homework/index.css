@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+
+    width: 800px;
+    height: 800px;
+    border-radius: 10px;
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.child1 {
+    background-image: url(homew.jpg);
+}
+
+.child2 {
+    background-image: url(oppe.jpg);
+}
+
+.child3 {
+    background-image: url(lil.jpg);
+}
+
+.child {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+p {
+    width: auto;
+    height: 25px;
+}

@@ -1,0 +1,22 @@
+.parent {
+    display:flex;
+    justify-content: space-evenly;
+
+
+
+    width: 800px;
+    height: 800px;
+    border-radius: 10px;
+    
+}
+
+
+.child {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(110, 38, 255);
+    border-radius: 10px ;
+    
+    
+}
